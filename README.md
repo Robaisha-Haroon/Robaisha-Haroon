@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Robaisha 👋
 
-<!--
-**Robaisha-Haroon/Robaisha-Haroon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student learning Python and exploring Blender scripting.
 
-Here are some ideas to get you started:
+### Currently learning
+- Python
+- Blender
+- Blender Python (bpy)
+- Storytelling and filmmaking
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Interests
+- 3D Animation
+- Procedural/technical animation
+- Creative technology
+
+### My journey
+I'm currently building small Python projects to strengthen my programming fundamentals.
+My goal is to eventually combine Python with Blender and animation.
+
+### Projects
+- [Python Beginner Projects](https://github.com/Robaisha-Haroon/python-beginner-projects)
+
+I'm learning by building, experimenting, and improving one project at a time.

@@ -1,23 +1,19 @@
-# Hi, I'm Robaisha 👋
+# Hi, I'm Robaisha
 
-I'm a student learning Python and exploring Blender scripting.
+I am a student learning Python and exploring Blender scripting. My goal is to work in animation. I want to use code to build tools, make work faster, and create 3D assets. 
 
-### Currently learning
-- Python
-- Blender
-- Blender Python (bpy)
-- Storytelling and filmmaking
+Right now, I am building small Python projects to learn the basics. I am practicing loops, logic, and how to organize data. This helps me build strong coding skills before I start scripting inside animation software.
 
-### Interests
-- 3D Animation
-- Procedural/technical animation
-- Creative technology
+## What I am learning right now
+* Python basics, functions, and loops
+* Blender and the Blender Python API
+* Storytelling, filmmaking, and animation steps
+* Writing clean code that is easy for others to read
 
-### My journey
-I'm currently building small Python projects to strengthen my programming fundamentals.
-My goal is to eventually combine Python with Blender and animation.
+## My interests
+* 3D Animation
+* Technical and procedural animation
+* Creative technology and automation
 
-### Projects
-- [Python Beginner Projects](https://github.com/Robaisha-Haroon/python-beginner-projects)
-
-I'm learning by building, experimenting, and improving one project at a time.
+## Let's connect
+If you are interested in Python, animation, or tech art, feel free to look through my repositories and see my progress.
